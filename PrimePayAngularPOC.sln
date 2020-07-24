@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimePayAngularPOC", "PrimePayAngularPOC\PrimePayAngularPOC.csproj", "{727F9EA2-DEDC-4860-983F-6D6D60389C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{727F9EA2-DEDC-4860-983F-6D6D60389C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727F9EA2-DEDC-4860-983F-6D6D60389C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727F9EA2-DEDC-4860-983F-6D6D60389C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727F9EA2-DEDC-4860-983F-6D6D60389C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECF30748-EB13-49C6-9B41-CC5E37778877}
+	EndGlobalSection
+EndGlobal
